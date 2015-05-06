@@ -1,0 +1,2 @@
+# Had
+Přečtěte si wiki
