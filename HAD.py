@@ -102,11 +102,3 @@ def d(had):
 pole_s_hadem = vytvor_hada(had, 10, 10)
 vykresli_pole(pole_s_hadem)
  
-##for pohyb in [dolu, dolu, doleva]:
-##    if had[-1] == had[-2]:
-##        break
-##    had = pohyb(had)
-##    pole_s_hadem = vytvor_hada(had, 10, 10)
-##    vykresli_pole(pole_s_hadem)
-##    if not pole_s_hadem:
-##        break
